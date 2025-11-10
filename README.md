@@ -94,7 +94,7 @@ The resulting audit utilised the six ability attributes of each RTK3 character: 
 * Sima Yi 司馬懿,しばい (was Sima yi in some scenarios)
 * Song Bao 宋宝 そうほう (was Zong Bao)
 * Sun Ji 孫冀 そんき (was Sun Yi in some scenarios, War Ability 74)
-* Sun Yi 孫異 そんい (was Sun Xu)
+* Sun Yi 孫翊 そんよく (was Sun Xu)
 * Taishi Ci 太史慈 たいしじ (was Tai Shici in some scenarios)
 * Tan Xiong 譚雄 たんゆう (was Tan Xong in some scenarios)
 * Wang Fu 王甫 おうほ (was Wang Pu)
