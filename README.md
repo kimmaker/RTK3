@@ -101,7 +101,7 @@ The resulting audit utilised the six ability attributes of each RTK3 character: 
 * Wen Ping 文聘 ぶんぺい (was Wen Pin)
 * Xiahou Dun 夏侯惇 かこうとん (was Xiahou Chun in some scenarios)
 * Xiahou En 夏侯恩 かこうおん (was Xiahou en in some scenarios)
-* Xiahou Yuan 夏侯淵 かこうえん (was Xiahou yuan and Xiahou Xuan in some scenarios)
+* Xiahou Yuan 夏侯淵 かこうえん (was Xiahou yuan in some scenarios)
 * Xu Zhu 許褚 きょちょ (was Xu Chu)
 * Xue Ti 薛悌 せつてい (was Xue Di in some scenarios)
 * Xue Zong 薛綜 せつそう (was Xue Zhong in some scenarios)
