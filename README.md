@@ -37,7 +37,7 @@ What began as a few ad-hoc fixes here and there turned into a sweeping audit, so
 
 Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by confusingly similar Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
 
-The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Based on the [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. Corrections to the original software have been made as follows:
+The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides: the base list and the software. Corrections to the original RTK3 software have been made as follows:
 
 * Ahui Nan 阿会喃 あかいなん (was A Huinan)
 * Cai Yong 蔡邕 さいよう (was Cui Yang)
@@ -128,4 +128,4 @@ The resulting audit utilised the six ability attributes of each RTK3 character: 
 * Zhu Zhi 朱治 しゅち (was Zhu Zi in some scenarios)
 * Zhuge Ke 諸葛恪 しょかつかく (was Zhuge Luo in some scenarios)
 
-Also in this repository is a CSV file containing a multilingual list of all 532 RTK3 characters including one special-event character.
+Also in this repository is a CSV file containing corrected multilingual entries across all 532 RTK3 characters.
