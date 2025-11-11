@@ -1,4 +1,4 @@
-# RTK3
+<img width="153" height="44" alt="image" src="https://github.com/user-attachments/assets/616d3131-f7eb-42e4-81bf-200e1bc102bc" /># RTK3
 
 * KOEI
 * Romance of the Three Kingdoms 3
@@ -117,8 +117,9 @@ The resulting audit utilised the six ability attributes of each RTK3 character: 
 * Zang Ba 藏覇 ぞうは (was Zhang Ba in some scenarios)
 * Ze Rong 笮融 さくゆう (was Cai Rong)
 * Zhang Cheng 張承 ちょうしょう (was Zhan Cheng in some scenarios)
-* Zhang Kai 張闓 ちょうがい (was Zhang Yi, War Ability 59)
+* Zhang Kai 張闓 ちょうかい (was Zhang Yi, War Ability 59)
 * Zhang Xiu 張繡 ちょうしゅう (was Zhang Xiao)
+* Zhang Yi 張顗 ちょうぎ (was Zhang Kai, War Ability 67)
 * Zhao Cen 趙岑 ちょうしん (was Zhang Cen)
 * Zhao Qu 趙衢 ちょうく (was Zhao Wei in some scenarios)
 * Zhou Tai 周泰 しゅうたい (was Zhou Dai in some scenarios)
