@@ -1,4 +1,4 @@
-<img width="153" height="44" alt="image" src="https://github.com/user-attachments/assets/616d3131-f7eb-42e4-81bf-200e1bc102bc" /># RTK3
+# RTK3
 
 * KOEI
 * Romance of the Three Kingdoms 3
