@@ -136,4 +136,5 @@ Corrections to the original RTK3 software have been made as follows:
 * Zhuge Ke 諸葛恪 しょかつかく (was Zhuge Luo) ^^
 
 ^^ Errors were found in some of the scenarios.
+
 ^^^ Widely accepted alternate spellings exist.
