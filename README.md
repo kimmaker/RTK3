@@ -40,7 +40,7 @@ Disappointingly, a wide variety of errors were found, ranging from mix-ups cause
 
 ## Method and results
 
-The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Initially based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides: the base list and the software.
+The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Initially based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides: the base list and the software. The outcome of the audit captured in this repository may not be perfect and is subject to further corrections.
 
 Included in this repository is corrected data across all 532 RTK3 characters in CSV format, most likely the only complete multilingual reference of its kind on the Internet.
 
@@ -57,7 +57,7 @@ Corrections to the original RTK3 software have been made as follows:
 * Chen Ying 陳応 ちんおう (was Chen Yin) ^^
 * Chunyu Qiong 淳于瓊 じゅんうけい (was Chun Yuqiong and Chunyu huan) ^^
 * Dong Heng 董衡 とうこう (was Dong Wei) ^^
-* Dongtuna 董荼奴 とうとな (was Dong Tonu and Dong Tujie) ^^ ^^^
+* Dongtuna 董荼奴 とうとな (was Dong Tonu and Dong Tujie) ^^^
 * Dousi Wang 朶思王 だしおう (was Dou Siwang)
 * Fu Rong 傅彤 ふとう (was Fu Tong)
 * Fu Xun 傅巽 ふそん (was Fu Yi)
