@@ -40,9 +40,11 @@ Disappointingly, a wide variety of errors were found, ranging from mix-ups cause
 
 ## Method and results
 
-The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Initially based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides: the base list and the software. The outcome of the audit captured in this repository may not be perfect and is subject to further corrections.
+The resulting audit utilised the six ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Initially based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides: the base list and the software.
 
 Included in this repository is corrected data across all 532 RTK3 characters in CSV format, most likely the only complete multilingual reference of its kind on the Internet.
+
+For KOEI's English RTK3, the outcome of this audit is a milestone: __What is featured in the story is documented, and what is documented is actually found in the software.__ That said, further corrections arising from oversight or a different method are not ruled out.
 
 Corrections to the original RTK3 software have been made as follows:
 
