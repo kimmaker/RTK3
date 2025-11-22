@@ -13,7 +13,7 @@ Originally released in 1992, Romance of the Three Kingdoms 3（三国志III, "RT
 
 To restore the history simulation game's historical^ accuracy, files in this repository apply corrections to all known errors in the English names of KOEI's RTK3 characters. There are no alterations to characters' abilities or other attributes.
 
-^ (Or 'fictional', since RTK（三国志演義）itself is a fiction.)
+^ (Or 'fictional', since RTK（三国志演義）itself is a history-inspired fiction.)
 
 
 ## Usage instructions and caveats
