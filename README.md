@@ -34,14 +34,9 @@ KOEI appears to have erased their own endeavours to localise the early Kou Shibu
 The only option for newcomers who are keen to "own" a copy of RTK3 for DOS, in any language, is to buy the Japanese-language Windows Steam remake of RTK3. But with or without a Steam licence, __there is no product support for RTK3 DOS whatsoever, not from KOEI Tecmo, not from anyone__.
 
 
-## Quality control KOEI should have gone through but did not
+## Method and results of belated quality control
 
-What began as a few ad-hoc fixes here and there turned into a sweeping audit, something KOEI neglected to do back in 1992. It is not unreasonable to speculate that the Japanese software maker outsourced the job of assigning English names to someone who had no familiarity with RTK to begin with. Whilst having read books on RTK is not a prerequisite to playing RTK3 or any other title in the series, the producer of RTK-inspired software had no excuse for such visible sloppiness, even for 1992.
-
-Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by similar-looking Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
-
-
-## Method and results
+What began as a few ad-hoc fixes here and there turned into a sweeping audit, something KOEI neglected to do back in 1992. Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by similar-looking Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
 
 The resulting audit utilised the six visible ability attributes of each RTK3 character: Combat (War), Intelligence, Politics, Charm, Army Command, and Naval Command. Initially based on a moderately accurate [list of KOEI RTK3 warriors in Japanese](https://gcgx.games/sangokushi/3/warriors.html), unique hexadecimal-converted attribute combinations ("signatures") were generated and validated against the English RTK3 binaries for identification, row by row and scenario by scenario. In the end, errors and inaccuracies were found on both sides, that is, the base list and the software.
 
