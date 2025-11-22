@@ -18,14 +18,14 @@ To restore the history simulation game's historical^^ accuracy, files in this re
 
 Download the six (6) .CIM files. Replace the originals with the downloaded files.
 
-These .CIM files are __not__ the RTK3 software in its entirety. A copy of English RTK3 for DOS is required as a base. The original software can be found on various archives and [*abandonware*](https://en.wikipedia.org/wiki/Abandonware) sites.
-
 Name corrections do __not__ apply to previously created RTK3 save data or further saves of that data. Let go of it and start fresh.
 
 To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started. For the best emulation experience, set _autofit_ to _false_ in the DOSBox-X configurations.
 
 
 ## Availability of RTK3 and other KOEI classics
+
+These .CIM files are __not__ the RTK3 software in its entirety. A copy of English RTK3 for DOS is required as a base. The original software can be found on various archives and [*abandonware*](https://en.wikipedia.org/wiki/Abandonware) sites.
 
 Clearly, none of KOEI's *native* DOS classics are available for sale through official channels anymore. However, [KOEI Tecmo](https://www.koeitecmo.co.jp/) does sell the Windows remake of RTK3 on Steam. The Steam edition of RTK3 is the same game as RTK3 for DOS, featuring identical content and mechanics, although it comes with a very different look and feel, loses the DOS-era nostalgia and is available only in Japanese.
 
