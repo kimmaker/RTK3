@@ -13,6 +13,12 @@ Originally released in 1992, Romance of the Three Kingdoms 3 ("RTK3") is one of 
 
 To restore the history simulation game's historical^ accuracy, files in this repository apply corrections to all known errors in the English names of KOEI's RTK3 characters. There are no alterations to characters' abilities or other attributes.
 
+Clearly, none of KOEI's *native* DOS classics are available for sale through official channels anymore. However, [KOEI Tecmo](https://www.koeitecmo.co.jp/) does sell the Windows remake of RTK3 on Steam. The Steam edition of RTK3 is the same game as RTK3 for DOS, featuring identical content and mechanics, although it comes with a very different look and feel, loses the DOS-era nostalgia and is available only in Japanese.
+
+KOEI appears to have erased their own endeavours to localise the early Kou Shibusawa history simulation titles that were once released in English, including RTK 1 through 3, Nobunaga's Ambition, Nobunaga's Ambition 2, Bandit Kings of Ancient China, L'Empereur, Genghis Khan 2, and Uncharted Waters: New Horizons. Nowadays, it is simply not possible to purchase the English-language versions of these classics. Yet, KOEI has revived every one of these DOS games on Steam, many of them unmodified, but again, solely in Japanese.
+
+The only option for newcomers who are keen to "own" a copy of RTK3 for DOS, in any language, is to buy the Japanese-language Windows Steam remake of RTK3. But with or without a Steam licence, __there is no product support for RTK3 DOS whatsoever, not from KOEI Tecmo, not from anyone__.
+
 ^ (Or 'fictional', since RTK（三国志演義）itself is a fiction.)
 
 
@@ -22,10 +28,6 @@ Download the six (6) .CIM files. Replace the originals with the downloaded files
 
 These .CIM files are __not__ the RTK3 software in its entirety. A copy of English RTK3 for DOS is required as a base. The original software can be found on various archives and [*abandonware*](https://en.wikipedia.org/wiki/Abandonware) sites.
 
-Clearly, none of KOEI's *native* DOS classics are available for sale through official channels anymore. However, [KOEI Tecmo](https://www.koeitecmo.co.jp/) does sell the Windows remake of RTK3 on Steam along with the Windows reincarnations of their other classics originally released on the DOS platform back in the 80's and 90's. RTK3 on Steam is the same game as RTK3 for DOS, featuring identical content and mechanics, although the Steam edition comes with a very different look and feel, loses the DOS-era nostalgia and is available only in Japanese. KOEI no longer offers English versions of their early history simulation titles.
-
-Arguably, RTK3 as a software title has not reached the end of its shelf life. As such, whether its long-discontinued DOS edition, in any language, is classified as abandonware is unclear licensing-wise. Regardless, the only option for newcomers who are keen to "own" a copy of RTK3 for DOS is to purchase the Steam edition of RTK3. But with or without a Steam licence, __there is no product support for RTK3 DOS whatsoever, not from KOEI Tecmo, not from anyone__.
-
 To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started.
 
 Name corrections do __not__ apply to previously created RTK3 save data or further saves of that data. Let go of it and start fresh.
@@ -33,7 +35,7 @@ Name corrections do __not__ apply to previously created RTK3 save data or furthe
 
 ## Quality control KOEI should have gone through but did not
 
-What began as a few ad-hoc fixes here and there turned into a sweeping audit, something KOEI neglected to do back in 1992. It appears the Japanese software maker outsourced the job of assigning English names to someone who had no familiarity with RTK to begin with. Whilst having read books on RTK is not a prerequisite to playing RTK3 or any other title in the series, the producer of RTK-inspired software had no excuse for such visible sloppiness, even for 1992.
+What began as a few ad-hoc fixes here and there turned into a sweeping audit, something KOEI neglected to do back in 1992. It is not unreasonable to speculate that the Japanese software maker outsourced the job of assigning English names to someone who had no familiarity with RTK to begin with. Whilst having read books on RTK is not a prerequisite to playing RTK3 or any other title in the series, the producer of RTK-inspired software had no excuse for such visible sloppiness, even for 1992.
 
 Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by confusingly similar Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
 
@@ -137,6 +139,6 @@ Corrections to the original RTK3 software have been made as follows:
 * Zhu Zhi 朱治 しゅち (was Zhu Zi) ^^
 * Zhuge Ke 諸葛恪 しょかつかく (was Zhuge Luo) ^^
 
-^^ Errors were found in some of the scenarios.
+^^ Errors were found in some, not all, of the scenarios.
 
 ^^^ Widely accepted alternate spellings exist.
