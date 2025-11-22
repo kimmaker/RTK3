@@ -9,7 +9,7 @@
 
 ## Background
 
-Originally released in 1992, Romance of the Three Kingdoms 3 ("RTK3") is one of KOEI's history simulation classics. The DOS edition of RTK3 came out in Japanese, Korean, English, and Chinese. Unfortunately, the English version was plagued by numerous errors and inconsistencies across the names of nearly 20 percent of the 500+ characters featured in the game.
+Originally released in 1992, Romance of the Three Kingdoms 3（三国志III, "RTK3"）is one of KOEI's history simulation classics. The DOS edition of RTK3 came out in Japanese, Korean, English, and Chinese. Unfortunately, the English version was plagued by numerous errors and inconsistencies across the names of nearly 20 percent of the 500+ characters featured in the game.
 
 To restore the history simulation game's historical^ accuracy, files in this repository apply corrections to all known errors in the English names of KOEI's RTK3 characters. There are no alterations to characters' abilities or other attributes.
 
@@ -31,7 +31,7 @@ Name corrections do __not__ apply to previously created RTK3 save data or furthe
 
 Clearly, none of KOEI's *native* DOS classics are available for sale through official channels anymore. However, [KOEI Tecmo](https://www.koeitecmo.co.jp/) does sell the Windows remake of RTK3 on Steam. The Steam edition of RTK3 is the same game as RTK3 for DOS, featuring identical content and mechanics, although it comes with a very different look and feel, loses the DOS-era nostalgia and is available only in Japanese.
 
-KOEI appears to have erased their own endeavours to localise the early Kou Shibusawa history simulation titles that were once released in English, including RTK 1 through 3, Nobunaga's Ambition, Nobunaga's Ambition 2, Bandit Kings of Ancient China, L'Empereur, Genghis Khan 2, and Uncharted Waters: New Horizons. Yet, KOEI has revived every one of these DOS games on Steam, many of them unmodified, but again, solely in Japanese.
+KOEI appears to have erased their own endeavours to localise the early Kou Shibusawa history simulation titles that were once released in English, including RTK 1 through 3, Nobunaga's Ambition（信長の野望）, Nobunaga's Ambition 2（信長の野望：戦国群雄伝）, Bandit Kings of Ancient China（水滸伝：天命の誓い）, L'Empereur, Genghis Khan 2, and Uncharted Waters: New Horizons（大航海時代II）. Yet, KOEI has revived every one of these DOS games on Steam, many of them unmodified, but again, solely in Japanese.
 
 The only option for newcomers who are keen to "own" a copy of RTK3 for DOS, in any language, is to buy the Japanese-language Windows Steam remake of RTK3. But with or without a Steam licence, __there is no product support for RTK3 DOS whatsoever, not from KOEI Tecmo, not from anyone__.
 
