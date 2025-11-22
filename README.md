@@ -20,9 +20,9 @@ Download the six (6) .CIM files. Replace the originals with the downloaded files
 
 These .CIM files are __not__ the RTK3 software in its entirety. A copy of English RTK3 for DOS is required as a base. The original software can be found on various archives and [*abandonware*](https://en.wikipedia.org/wiki/Abandonware) sites.
 
-To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started.
-
 Name corrections do __not__ apply to previously created RTK3 save data or further saves of that data. Let go of it and start fresh.
+
+To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started. For the best emulation experience, set _autofit_ to _false_ in the DOSBox-X configurations.
 
 
 ## Availability of RTK3 and other KOEI classics
