@@ -40,7 +40,7 @@ The only option for newcomers who are keen to "own" a copy of RTK3 for DOS, in a
 
 What began as a few ad-hoc fixes here and there turned into a sweeping audit, something KOEI neglected to do back in 1992. It is not unreasonable to speculate that the Japanese software maker outsourced the job of assigning English names to someone who had no familiarity with RTK to begin with. Whilst having read books on RTK is not a prerequisite to playing RTK3 or any other title in the series, the producer of RTK-inspired software had no excuse for such visible sloppiness, even for 1992.
 
-Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by confusingly similar Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
+Disappointingly, a wide variety of errors were found, ranging from mix-ups caused by similar-looking Kanji, to inconsistent casing, to suspected guesswork, to incorrectly recognised multi-syllable surnames, to apparent slips on the keyboard, to seemingly deliberate flippancy that cannot be explained otherwise.
 
 
 ## Method and results
