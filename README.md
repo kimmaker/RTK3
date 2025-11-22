@@ -1,10 +1,10 @@
 # RTK3
 
-* KOEI
+* KOEI Kou Shibusawa History Simulation series
 * Romance of the Three Kingdoms 3
 * English
 * DOS
-* Character data with corrected names
+* Character names fully corrected 33 years after release
 
 
 ## Background
