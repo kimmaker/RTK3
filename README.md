@@ -20,7 +20,7 @@ Download the six (6) .CIM files. Replace the originals with the downloaded files
 
 Name corrections do __not__ apply to previously created RTK3 save data or further saves of that data. Let go of it and start fresh.
 
-To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started. For the best emulation experience, set _autofit_ to _false_ in the DOSBox-X configurations.
+To run RTK3 for DOS on a modern-day computer, emulation is required. See [DOSBox-X](https://dosbox-x.com/) to get started. For the best emulation experience, set _autofit_ and _doublescan_ to _false_ in the DOSBox-X configurations.
 
 
 ## Availability of RTK3 and other KOEI classics
