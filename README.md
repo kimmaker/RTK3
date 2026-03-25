@@ -89,7 +89,7 @@ Corrections to the original RTK3 software have been made as follows:
 * Lu Ji 陸績 りくせき (was Lu Xu) ^^^
 * Lu Jian 呂建 りょけん (was Liu Jian) ^^^
 * Man Chong 満寵 まんちょう (was Man Pang) ^^^
-* Mi Zhu 糜竺 びじく (was Mi Lan in some scenarios)
+* Mi Zhu 糜竺 びじく (was Mi) ^^^
 * Pan Jun 潘濬 はんしゅん (was Pan Rui) ^^^
 * Qiao Rui 橋蕤 きょうずい (was Qiao Zi)
 * Qu Yi 麴義 きくぎ (was Ju Yi) ^^^
