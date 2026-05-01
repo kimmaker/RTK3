@@ -57,9 +57,8 @@ Corrections to the original RTK3 software have been made as follows:
 * Chen Ying 陳応 ちんおう (was Chen Yin) ^^^
 * Chunyu Qiong 淳于瓊 じゅんうけい (was Chun Yuqiong and Chunyu huan) ^^^
 * Dong Heng 董衡 とうこう (was Dong Wei) ^^^
-* Dongtuna 董荼奴 とうとな (was Dong Tonu and Dong Tujie) ^^^^
+* Dong Tuna 董荼奴 とうとな (was Dong Tonu and Dong Tujie) ^^^^
 * Dousi Wang 朶思王 だしおう (was Dou Siwang)
-* Fu Rong 傅彤 ふとう (was Fu Tong)
 * Fu Xun 傅巽 ふそん (was Fu Yi)
 * Gao Ding 高定 こうてい (was Dao Ding) ^^^
 * Gongsun Yuan 公孫淵 こうそんえん (was Gongsun Yun) ^^^
